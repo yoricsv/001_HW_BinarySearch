@@ -7,9 +7,9 @@ project (${PROJECT_NAME} LANGUAGES CXX)
     set (CMAKE_CXX_STANDARD_REQUIRED  ON)
 
 add_executable (${PROJECT_NAME}
-    src/array_handler.cpp     src/inc/array_handler.h
-    src/main.cpp              src/inc/main.h
-    src/menu.cpp              src/inc/menu.h
-    src/search_binary.cpp     src/inc/search_binary.h
-    src/sort_by_bubble.cpp    src/inc/sort_by_bubble.h
+    src/array_handler.cpp     inc/array_handler.h
+    src/main.cpp              inc/main.h
+    src/menu.cpp              inc/menu.h
+    src/search_binary.cpp     inc/search_binary.h
+    src/sort_by_bubble.cpp    inc/sort_by_bubble.h
 )
