@@ -1,7 +1,7 @@
 # <p align = center><b>001_HW_BinarySearch<b></p>
 
 -------------------------------------------------------------------------------
-> **File**           : _README.md_
+> **File**           : _README.md_</br>
 > **Brief**          : _Short description of the project_
 -------------------------------------------------------------------------------
 > **Attention**
