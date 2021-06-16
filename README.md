@@ -1,10 +1,11 @@
 # <p align = center><b>001_HW_BinarySearch<b></p>
+# [GitHub](https://github.com/yoricsv/001_HW_BinarySearch)
 
 -------------------------------------------------------------------------------
-> **File**           : _README.md_</br>
-> **Brief**          : _Short description of the project_
+> <p>**File**           : _README.md_</br></p>
+> <p>**Brief**          : _Short description of the project_</p>
 -------------------------------------------------------------------------------
-> **Attention**
+> :octocat:**Attention**:octocat:
 > 
 > The **PROJECT STRUCTURE (blank)** part describes the common structure of the
 > project in order to understand where the code is and where the CMake 
