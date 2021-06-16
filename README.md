@@ -1,9 +1,16 @@
+-------------------------------------------------------------------------------
+<p align = center><b>Task for me<b></p>
+- [] Develop common layout for README.md !!!!!!!!!!
+- [] Check source code and remove unusable comments
+- [] Refactoring code
+-------------------------------------------------------------------------------
+
 # <p align = center><b>001_HW_BinarySearch<b></p>
 # [GitHub](https://github.com/yoricsv/001_HW_BinarySearch)
 
 -------------------------------------------------------------------------------
-> <p>**File**           : _README.md_</br></p>
-> <p>**Brief**          : _Short description of the project_</p>
+> <p><b>File</b>          : _README.md_</br></p>
+> <p><b>Brief</b>         : _Short description of the project_</p>
 -------------------------------------------------------------------------------
 > :octocat:**Attention**:octocat:
 > 
