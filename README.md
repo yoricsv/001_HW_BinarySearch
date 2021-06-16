@@ -1,9 +1,8 @@
 -------------------------------------------------------------------------------
 ## <p align = center><b>Task for me<b></p>
-
-[ ] Develop common layout for README.md !!!!!!!!!!
-[ ] Check source code and remove unusable comments
-[ ] Refactoring code
+<p><input type="checkbox" >Develop common layout for README.md !!!!!!!!!!</input></p></br>
+<p><input type="checkbox" >Check source code and remove unusable comments</input></p></br>
+<p><input type="checkbox" >Refactoring code</input></p></br>
 -------------------------------------------------------------------------------
 
 # <p align = center><b>001_HW_BinarySearch<b></p>
