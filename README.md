@@ -1,4 +1,4 @@
-# 001_HW_BinarySearch
+<p align = center># 001_HW_BinarySearch</p>
 
 # *******************************************************************************
 # @file           : README.md
