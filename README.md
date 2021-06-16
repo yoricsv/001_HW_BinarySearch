@@ -1,12 +1,32 @@
--------------------------------------------------------------------------------
-## <p align = center><b>Task for me<b></p>
-<p><input type="checkbox" />Develop common layout for README.md !!!!!!!!!!</p></br>
-<p><input type="checkbox" />Check source code and remove unusable comments</p></br>
-<p><input type="checkbox" />Refactoring code</p></br>
--------------------------------------------------------------------------------
+
 
 # <p align = center><b>001_HW_BinarySearch<b></p>
 # [GitHub](https://github.com/yoricsv/001_HW_BinarySearch)
+
+
+-------------------------------------------------------------------------------
+## <p align = center><b>My Task List<b></p>
+
+- [X] Develop common layout for README.md !!!!!!!!!!</p><br/>
+- [ ] Check source code and remove unusable comments</p><br/>
+- [ ] Refactoring code</p></br>
+
+#### Список задач
+(Task List)
+Можно создавать "Списки задач" для этого необходимо использовать `- [ ]` для поставленной задачи и `- [X]` для выполненной задачи.
+```
+- [X] Придумать внешний вид резюме
+- [ ] Написать основные категории
+- [X] Опубликовать
+
+```
+
+- [X] Придумать внешний вид резюме
+- [ ] Написать основные категории
+- [ ] Опубликовать
+
+-------------------------------------------------------------------------------
+
 
 -------------------------------------------------------------------------------
 > <p><b>File</b>          : _README.md_</br></p>
