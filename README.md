@@ -1,8 +1,9 @@
 -------------------------------------------------------------------------------
-<p align = center><b>Task for me<b></p>
-- [] Develop common layout for README.md !!!!!!!!!!
-- [] Check source code and remove unusable comments
-- [] Refactoring code
+## <p align = center><b>Task for me<b></p>
+
+[ ] Develop common layout for README.md !!!!!!!!!!
+[ ] Check source code and remove unusable comments
+[ ] Refactoring code
 -------------------------------------------------------------------------------
 
 # <p align = center><b>001_HW_BinarySearch<b></p>
