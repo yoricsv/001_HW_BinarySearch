@@ -1,5 +1,3 @@
-
-
 # <p align = center><b>001_HW_BinarySearch<b></p>
 ---
  
