@@ -1,9 +1,8 @@
 # <p align = center><b>001_HW_BinarySearch<b></p>
----
  
 repo URL:
 ```
-https://github.com/yoricsv/001_HW_BinarySearch
+https://github.com/yoricsv/001_HW_BinarySearch.git
 ```
 
 **DOCTYPE** | **Discription**
