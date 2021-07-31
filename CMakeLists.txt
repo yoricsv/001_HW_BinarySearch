@@ -1,17 +1,18 @@
 cmake_minimum_required (VERSION 3.5 FATAL_ERROR)
 
     # set the project name
-    set (PROJECT_NAME           BinarySearch)
+    set (PROJECT_NAME         BinarySearch         )
 
     # setup the type of output build Debug/Release (by default: Release)
-    set (CMAKE_BUILD_TYPE              Debug)
+    set (CMAKE_BUILD_TYPE     Debug                )
+    set (OUTPUT_DIRECTORY     "${CMAKE_BINARY_DIR}")
 
     # CMake standard variable names are long, I use something like aliases
     set (MAJOR      "${PROJECT_NAME}_VERSION_MAJOR")
     set (MINOR      "${PROJECT_NAME}_VERSION_MINOR")
     set (PATCH      "${PROJECT_NAME}_VERSION_PATCH")
     set (TWEAK      "${PROJECT_NAME}_VERSION_TWEAK")
-    set (VERSION    "${PROJECT_NAME}_VERSION")
+    set (VERSION    "${PROJECT_NAME}_VERSION"      )
     
     # specify version number
     set (${MAJOR}   1)
